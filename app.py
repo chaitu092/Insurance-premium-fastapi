@@ -7,7 +7,6 @@ from schema.prediction_response import PredictionResponse
 app = FastAPI()
 
         
-
 # human readable api
 @app.get("/")
 def home():
