@@ -24,6 +24,7 @@ pip install -r requirements.txt
 ## Docker Support 🐳
 ![Docker instructions](Stepstocreatedockerimage.png)
 
+Docker Image - https://hub.docker.com/repository/docker/chaitu2508/insurance-prediction-fastapi/general
 ## Project Structure 📂
 
 .
@@ -41,3 +42,4 @@ uvicorn app:app --reload
 The API will be accessible at: http://127.0.0.1:8000
 
 Interactive API documentation is available at: http://127.0.0.1:8000/docs
+
